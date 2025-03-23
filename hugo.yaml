@@ -49,3 +49,7 @@ menu:
       name: Search
       url: /search/
       weight: 30
+    - identifier: links
+      name: Links
+      url: /links/
+      weight: 40
